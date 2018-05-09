@@ -1,4 +1,4 @@
-# internal-coin
+# internal-coin(ITN)
 
 extend ERC20 token.
 
