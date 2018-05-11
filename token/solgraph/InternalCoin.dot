@@ -1,0 +1,11 @@
+strict digraph {
+  InternalCoin
+  addTotalSupply
+  require
+  thanks
+  transfer
+  thanksMessage [color=blue]
+  addTotalSupply -> require
+  thanks -> transfer
+}
+
